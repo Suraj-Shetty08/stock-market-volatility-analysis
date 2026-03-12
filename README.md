@@ -115,4 +115,4 @@ Expand analysis to include S&P 500 companies
 
 Suraj Shetty
 
-🔗 Built as part of my Data Analytics portfolio to demonstrate Excel dashboarding and data storytelling skills.
+🔗 Built as part of my Data Analytics portfolio to demonstrate dashboarding and data storytelling skills.
