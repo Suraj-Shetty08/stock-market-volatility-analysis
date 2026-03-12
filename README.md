@@ -52,6 +52,8 @@ Key insight:
 
 Some companies dominate market activity due to higher liquidity and investor interest.
 
+### 🔗 Tableau public link: https://public.tableau.com/app/profile/suraj.shetty5379/viz/StockVolatilityandMarketActivity/StockVolatilityandMarketActivity
+
 ## 🛠 Tools & Technologies
 
 - Microsoft Excel
