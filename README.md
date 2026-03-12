@@ -114,4 +114,5 @@ Expand analysis to include S&P 500 companies
 👨‍💻 Author
 
 Suraj Shetty
+
 🔗 Built as part of my Data Analytics portfolio to demonstrate Excel dashboarding and data storytelling skills.
